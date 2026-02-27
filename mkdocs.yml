@@ -1,0 +1,7 @@
+site_name: UMAIP
+theme:
+  name: material
+  palette:
+    primary: indigo
+nav:
+  - Головна: index.md
